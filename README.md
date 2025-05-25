@@ -22,7 +22,7 @@ A simple tool to generate random words for fun!
 
 ## Tech Stack
 
-- HTMl
+- HTML
 - CSS
 - JavaScript
 
